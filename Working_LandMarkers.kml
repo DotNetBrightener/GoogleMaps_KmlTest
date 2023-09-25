@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml
+	xmlns="http://www.opengis.net/kml/2.2">
+	<!-- created by GmapGIS.com -->
+	<Document>
+		<name>MynameKML file polygon </name>
+		<description>Some description</description>
+		<Style id="polyStyID_0">
+			<LineStyle>
+				<color>FF0000FF</color>
+				<width>5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>660088ff</color>
+			</PolyStyle>
+		</Style>
+		<Placemark>
+			<name>Polygon</name>
+			<description>
+				<![CDATA[]]>
+			</description>
+			<styleUrl>#polyStyID_0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<altitudeMode>clampToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+106.64016,10.73375,0.0
+106.64027,10.73381,0.0
+106.6403,10.73376,0.0
+106.64019,10.73369,0.0
+</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Polygon</name>
+			<description>
+				<![CDATA[]]>
+			</description>
+			<styleUrl>#polyStyID_0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<altitudeMode>clampToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+106.64027,10.73381,0.0
+106.64037,10.73386,0.0
+106.64041,10.7338,0.0
+106.64031,10.73375,0.0
+</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Polygon</name>
+			<description>
+				<![CDATA[]]>
+			</description>
+			<styleUrl>#polyStyID_0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<altitudeMode>clampToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+106.64037,10.73387,0.0
+106.64043,10.7339,0.0
+106.64046,10.73383,0.0
+106.64041,10.73381,0.0
+</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Polygon</name>
+			<description>
+				<![CDATA[]]>
+			</description>
+			<styleUrl>#polyStyID_0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<altitudeMode>clampToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+106.64015,10.73375,0.0
+106.64011,10.73372,0.0
+106.64014,10.73367,0.0
+106.64019,10.73369,0.0
+</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>

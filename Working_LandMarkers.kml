@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml
 	xmlns="http://www.opengis.net/kml/2.2">
-	<!-- created by GmapGIS.com -->
 	<Document>
 		<name>MynameKML file polygon </name>
 		<description>Some description</description>
+
+		<!-- Define color, Stylings -->
 		<Style id="polyStyID_0">
 			<LineStyle>
 				<color>FF0000FF</color>
@@ -14,6 +15,8 @@
 				<color>660088ff</color>
 			</PolyStyle>
 		</Style>
+
+		<!-- Define placemarks, each placemark is one land -->
 		<Placemark>
 			<name>Polygon</name>
 			<description>

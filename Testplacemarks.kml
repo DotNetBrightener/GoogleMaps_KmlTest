@@ -5,7 +5,7 @@
 	<StyleMap id="InPolygonMap_Polygon_001">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#Polygon_001</styleUrl>
+			<styleUrl>#Polygon_008</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>

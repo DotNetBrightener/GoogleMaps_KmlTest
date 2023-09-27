@@ -543,11 +543,11 @@
 	</Style>
 	<Style id="Polygon_008">
 		<LineStyle>
-			<color>cc4c9985</color>
+			<color>00000000</color>
 		</LineStyle>
 		<PolyStyle>
 			<color>804c9985</color>
-			<outline>0</outline>
+			<outline>1</outline>
 		</PolyStyle>
 	</Style>
 	<Style id="Polygon_009">
